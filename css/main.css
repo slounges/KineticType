@@ -48,10 +48,10 @@ svg { width: 100%; }
 .zoom-tony { animation: zoomtony 2.5s forwards; }
 
 /*line 1*/
-#DID { animation-delay: 0.3s; }
-#YOU1 { animation-delay: 0.4s; }
-#EVER { animation-delay: 0.5s; }
-#TAKE { animation-delay: 0.6s; }
+#DID { animation-delay: 0.4s; }
+#YOU1 { animation-delay: 0.5s; }
+#EVER { animation-delay: 0.6s; }
+#TAKE { animation-delay: 0.7s; }
 #MRS1 { animation-delay: 1.1s;}
 #WINDHAM1 { animation-delay: 1.2s; }
 #ON{ animation-delay: 1.5s; }
@@ -59,82 +59,81 @@ svg { width: 100%; }
 #DATE { animation-delay: 1.7s; }
 /*line 1 end*/
 
-#YES1 { animation-delay: 2.3s; }
-#WHERE1 { animation-delay: 3.2s; }
-#A { animation-delay: 2.0s; }
-#RESTAURANT { animation-delay: 2.4s; }
-#IN { animation-delay: 2.8s; }
-#CONCORD { animation-delay: 2.9s; }
-#WHERE2 { animation-delay: 3.0s; }
-#NO { animation-delay: 3.2s; }
-#ONE { animation-delay: 3.4s; }
-#COULD { animation-delay: 3.5s; }
-#RECOGNISE { animation-delay: 3.7s; }
-#US { animation-delay: 4.0s; }
+#YES1 { animation-delay: 3.1s; }
+#WHERE1 { animation-delay: 3.8s; }
+#A { animation-delay: 4.7s; }
+#RESTAURANT { animation-delay: 4.9s; }
+#IN { animation-delay: 5.1s; }
+#CONCORD { animation-delay: 5.3s; }
+#WHERE2 { animation-delay: 5.5s; }
+#NO { animation-delay: 5.7s; }
+#ONE { animation-delay: 5.9s; }
+#COULD { animation-delay: 6.1s; }
+#RECOGNISE { animation-delay: 6.3s; }
+#US { animation-delay: 6.6s; }
+
+#AND1 { animation-delay: 7.2s; }
+#HOW { animation-delay: 7.4s; }
+#LONG { animation-delay: 7.6s; }
+#HAVE { animation-delay: 7.7s; }
+#YOU2 { animation-delay: 7.9s; }
+#BEEN { animation-delay: 8.0s; }
+#SLEEPING { animation-delay: 8.2s; }
+#WITH { animation-delay: 8.4s; }
+#MRS2 { animation-delay: 8.6s; }
+#WINDHAM2 { animation-delay: 8.8s; }
+#THREE { animation-delay: 9.5s; }
+#MONTHS { animation-delay: 9.7s; }
+
+#AND2 { animation-delay: 10.0s; }
+#YOUR { animation-delay: 10.2s; }
+#BOYFRIEND { animation-delay: 10.4s; }
+#NAME  { animation-delay: 10.8s; }
+#IS { animation-delay: 10.9s; }
+#CHUCK1 { animation-delay: 11.3s; }
+#RIGHT { animation-delay: 11.9s; }
+
+#SILENCE2 { animation-delay: 17.8s; }
+#SILENCE1 { animation-delay: 18.6s; }
 
 
-#AND1 { animation-delay: 0s; }
-#HOW { animation-delay: 0.2s; }
-#LONG { animation-delay: 0.3s; }
-#HAVE { animation-delay: 0.5s; }
-#YOU2 { animation-delay: 0.6s; }
-#BEEN { animation-delay: 0.7s; }
-#SLEEPING { animation-delay: 0.8s; }
-#WITH { animation-delay: 0.9s; }
-#MRS2 { animation-delay: 1.1s; }
-#WINDHAM2 { animation-delay: 1.2s; }
-#THREE { animation-delay: 2.0s; }
-#MONTHS { animation-delay: 2.1s; }
+#YES2 { animation-delay: 20.1s; }
+#MR { animation-delay: 20.5s; }
+#SALVATORE { animation-delay: 20.6s; }
 
 
- #AND2 { animation-delay: 0s; }
- #YOUR { animation-delay: 0.2s; }
- #BOYFRIEND { animation-delay: 0.4s; }
- #NAME  { animation-delay: 0.8s; }
- #IS { animation-delay: 0.9s; }
- #CHUCK1 { animation-delay: 1.3s; }
-#RIGHT { animation-delay: 1.9s; }
+#I1 { animation-delay: 21.2s; }
+#I2 { animation-delay: 21.4s; }
+#WAS1 { animation-delay: 21.6s; }
+#AH { animation-delay: 21.8s; }
 
-#SILENCE { animation-delay: 4.8s; }
-#SILENCE2 { animation-delay: 5.8s; }
-
-
-#YES2 { animation-delay: 0s; }
-#MR { animation-delay: 0.4s; }
-#SALVATORE { animation-delay: 0.5s; }
-
-
-#I1 { animation-delay: 0.2s; }
-#I2 { animation-delay: 0.4s; }
-#WAS1 { animation-delay: 0.6s; }
-#AH { animation-delay: 0.8s; }
-
-#I3 { animation-delay: 1.0s; }
-#WAS2 { animation-delay: 1.2s; }
-#CONFUSED { animation-delay: 1.4s; }
-#YOU3 { animation-delay: 2.0s; }
-#SEE { animation-delay: 2.1s; }
-#I4 { animation-delay: 2.6s; }
-#THOUGHT { animation-delay: 2.8s; }
-#YOU4 { animation-delay: 2.9s; }
-#SAID { animation-delay: 3.0s; }
-#FRIEND { animation-delay: 3.2s; }
-#CHUCK2 { animation-delay: 3.6s; }
-#IS2 { animation-delay: 3.8s; }
-#JUST { animation-delay: 4.0s; }
-#A2 { animation-delay: 4.3s; }
-#BOYFRIEND2 { animation-delay: 4.6s; }
+#I3 { animation-delay: 22.0s; }
+#WAS2 { animation-delay: 22.2s; }
+#CONFUSED { animation-delay: 22.3s; }
+#YOU3 { animation-delay: 23.0s; }
+#SEE { animation-delay: 23.1s; }
+#I4 { animation-delay: 23.6s; }
+#THOUGHT { animation-delay: 23.8s; }
+#YOU4 { animation-delay: 23.9s; }
+#SAID { animation-delay: 24.0s; }
+#FRIEND { animation-delay: 24.2s; }
+#CHUCK2 { animation-delay: 24.5s; }
+#IS2 { animation-delay: 24.7s; }
+#JUST { animation-delay: 24.9s; }
+#A2 { animation-delay: 25.3s; }
+#BOYFRIEND2 { animation-delay: 25.6s; }
 
 
-#YOU5 { animation-delay: 0.5s; }
-#BITCH { animation-delay: 1.0s; }
+#YOU5 { animation-delay: 27.5s; }
+#BITCH { animation-delay: 27.8s; }
+ 
 
 .dinnerIcon{
   position: absolute;
-  top: 250px;
-  left: 330px;
-  height: 150px;
-  width: 150px;
+  top: 75px;
+  left: 150px;
+  height: 15px;
+  width: 15px;
   opacity: 0;
   animation-delay: 1.7s;
  
@@ -142,34 +141,34 @@ svg { width: 100%; }
 
 .calendarIcon{
   position: absolute;
-  top: 300px;
-  left: 200px;
-  height: 90px;
-  width: 90px;
+  top: 88px;
+  left: 376px;
+  height: 20px;
+  width: 20px;
   opacity: 0;
-  animation-delay: 2.1s;
+  animation-delay: 9.5s;
  
 }
 
 .muteIcon{
   position: absolute;
-  top: 200px;
-  left: 90px;
-  height: 60px;
-  width: 60px;
+  top: 165px;
+  left: 200px;
+  height: 25px;
+  width: 25px;
   opacity: 0;
-  animation-delay: 5.0s;
+  animation-delay: 27.5s;
  
 }
 
 .doggoIcon{
 position: absolute;
-  top: 200px;
-  left: 200px;
-  height: 100px;
-  width: 100px;
+  top: 250px;
+  left: 300px;
+  height: 30px;
+  width: 30px;
   opacity: 0;
-  animation-delay: 0.5s;
+  animation-delay: 0s;
 }
 
 
